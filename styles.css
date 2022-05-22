@@ -1,0 +1,48 @@
+.heading{
+    color:darkcyan;
+}
+
+body{
+    background-color: azure;
+    color:dimgrey
+}
+
+nav a{
+    color:deeppink;
+}
+
+section.about-bieber{
+    text-align: center;
+}
+
+h2{
+    color:blueviolet;
+}
+
+nav a{
+    text-align: center;
+}
+
+footer{
+    margin: 50px 0;
+    text-align: center;
+}
+
+section h2{
+    font-family: sans-serif;
+}
+
+.center{
+    text-align: center;
+}
+article.grammy{
+    background-color: fuchsia;
+    text-align: center;
+}
+.albums{
+    font-family: sans-serif;
+}
+
+.aboutjustinbieber{
+    text-align: center;
+}
